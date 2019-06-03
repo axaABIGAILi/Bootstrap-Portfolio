@@ -1,0 +1,18 @@
+body {
+    background-image: url("images/fishnets-and-hearts.png");
+}
+
+.contentContainer {
+    background-color: #fff;
+}
+
+#proImage {
+    float: left;
+    margin: 10px 15px 10px 0;
+}
+
+#footer {
+    bottom:0;
+    position: absolute;
+    width: 100%;
+}
